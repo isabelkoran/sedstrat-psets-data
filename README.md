@@ -1,5 +1,4 @@
 # sedstrat-psets-data
-Public repository containing data and image files used in problem sets for Spring 2025 Stratigraphy &amp; Earth History at UC Berkeley
 
 Data and image files used in problem sets for EPS 115: Stratigraphy and Earth History at UC Berkeley in spring 2025.
 
