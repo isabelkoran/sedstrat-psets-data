@@ -10,4 +10,6 @@ Data and image files used in problem sets for EPS 115: Stratigraphy and Earth Hi
 
 * Problem Set 4: Carbon isotopes
 
+* Problem Set 5: Basin analysis
+
 Draws from 2018 course materials by Yuem Park and Nick Swanson-Hysell.
